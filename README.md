@@ -2,7 +2,7 @@
 
 Задания по тестированию с курса по автоматизации [Stepik](https://stepik.org/course/575/syllabus)
 
-* ####chapter 1: Знакомимся с Selenium
+* chapter 1: Знакомимся с Selenium
     * lesson2_step11_greeting.py - пример выполнения скрипта с автотестом;
     * lesson6_step4_fast_execution.py - поиск элементов с помощью Selenium;
     * lesson6_step5_find_link.py - поиск элемента по тексту в ссылке
@@ -10,7 +10,7 @@
     * lesson6_step8_find_by_xpath.py - поиск элемента по XPath
     * lesson6_step11_exception.py - обработка исключений
 ***
-* ####chapter 2: Полезные методы Selenium
+* chapter 2: Полезные методы Selenium
     * lesson1_step5_calculation.py - клик по checkboxes и radiobuttons
     * lesson1_step7_get_attribute.py - поиск сокровища с помощью get_attribute
     * lesson2_step3_sum_list.py - работа с выпадающим списком
